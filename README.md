@@ -12,7 +12,7 @@
 
 - ### Osu!
 <p align="left" > 
-  <a href="https://osu-sig.vercel.app/">
+  <a href="https://github.com/solstice23/osu-stats-signature">
     <img alt="osu stats" src="https://osu-sig.vercel.app/card?user=tomochapee&mode=std&lang=en&blur=6&round_avatar=true&animation=true&hue=255" />
   </a>
 </p>
